@@ -45,7 +45,7 @@ Neste projeto foram usadas essas tecnologias:
 
 ## Clonar o repositório
 ```bash
-https://github.com/Mizaeldouglas/app_tarefas_flutter_alura.git
+https://github.com/Mizaeldouglas/app_tasks_flutter.git
 ```
 
 ## Rodar Projeto
